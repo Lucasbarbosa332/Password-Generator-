@@ -11,7 +11,7 @@
    depois baixe um IDE Exemplo Vscode e execute no terminal de comando do IDE não prtecis baixar nehuma dependcia 
 
    # veja o código funcionando 
-   <img width=100% src=""></img>
+   <img width=100% src="https://github.com/Lucasbarbosa332/Password-Generator-/blob/main/py%20.png"></img>
 
 
    
